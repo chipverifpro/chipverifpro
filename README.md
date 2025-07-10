@@ -19,7 +19,7 @@ I’m a dedicated software and hardware engineer with a passion for chip verific
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **DungeonReincarnated** | A dungeon crawling game :contentReference[oaicite:1]{index=1} | C |
+| **DungeonReincarnated** | A dungeon crawling game :[contentReference[oaicite:1]{index=1}](https://github.com/chipverifpro/Dungeon-Reincarnate) | C |
 
 ### 🔍 Highlights
 
