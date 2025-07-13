@@ -1,17 +1,17 @@
 # chipverifpro
 
-**🎯 Software Designer | Chip Verification & FPGA Enthusiast**
+**🎯 Software Designer | Chip Verification | AI Enthusiast**
 
 ---
 
 ## 🔧 About Me
 
-I’m a dedicated software and hardware engineer with a passion for chip verification, Artificial Intelligence, FPGA firmware development, and embedded systems. I enjoy building development toolchains, automation scripts, and polished dashboards to streamline workflows. In my free time, I explore open‑source toolchains for FPGAs, contribute to chip verification projects, and continually sharpen my design skills.
+I’m a dedicated hardware and software engineer with a passion for chip verification, Artificial Intelligence, firmware development, and embedded systems. I enjoy building development toolchains, automation scripts, and polished dashboards to streamline workflows. In my free time, I explore open‑source toolchains for FPGAs, contribute to chip verification projects, and continually sharpen my design skills.
 
 - 📍 Based in Irvine, California  
 - 💻 Proficient in Python, C/C++, Shell scripting, Verilog/SystemVerilog, UVM 
 - 🛠️ Experienced with ARM, PCIe, and other hardware interfaces  
-- 🌱 Always learning—especially in AI, software and hardware design, as well as verification
+- 🌱 Always learning—especially in AI, software design, hardware design, and verification
 
 ---
 
