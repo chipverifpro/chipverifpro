@@ -22,7 +22,7 @@ I’m a dedicated hardware and software engineer with a passion for chip verific
 | **DungeonReincarnated** | A dungeon crawling game :https://github.com/chipverifpro/Dungeon-Reincarnate | C |
 | **change_file_dates** | Update date/time on files based on a spreadsheet :https://github.com/chipverifpro/change_file_dates | Perl |
 | **dog_medicine_tracker** | Tracks medications given to a dog :https://github.com/chipverifpro/dog_medicine_tracker | Python |
-
+| **unity_essentials_tutorial** " Several scenes from the tutorial :https://play.unity.com/en/games/56a130e2-4784-44b6-b3e6-94d1890eba01/essentials-pathway-complete-demo | C#, Unity |
 ### 🔍 Highlights
 
 - Collaborated on embedded device projects using **C, C++**, and **Verilog/SystemVerilog**.
