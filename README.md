@@ -6,10 +6,10 @@
 
 ## 🔧 About Me
 
-I’m a dedicated hardware and software engineer with a passion for chip verification, Artificial Intelligence, firmware development, and embedded systems. I enjoy building development toolchains, automation scripts, and polished dashboards to streamline workflows. In my free time, I explore open‑source toolchains for FPGAs, contribute to chip verification projects, and continually sharpen my design skills.
+I’m a dedicated AI System Design enginner, with both a hardware and software background. I have a passion for Artificial Intelligence in all it's forms, chip verification, firmware development, and embedded systems. I enjoy building complex simulations, automation scripts, and polished dashboards that streamline workflows. In my free time, I continually like to sharpen my design skills, from papers to online courses, or even extensive chats with AI about topics that spark my interest.
 
 - 📍 Based in Irvine, California  
-- 💻 Proficient in Python, C/C++, Shell scripting, Verilog/SystemVerilog, UVM 
+- 💻 Proficient in Python, C/C++/C#, Shell scripting, Verilog/SystemVerilog, UVM 
 - 🛠️ Experienced with ARM, PCIe, and other hardware interfaces  
 - 🌱 Always learning—especially in AI, software design, hardware design, and verification
 
@@ -19,7 +19,7 @@ I’m a dedicated hardware and software engineer with a passion for chip verific
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **A Dog's Tale** | A 3D adventure game from a canine perspective :https://github.com/chipverifpro/A_Dogs_Tale | C#, Unity
+| **A Dog's Tale** | A 3D simulation with LLM AI driven canines :https://github.com/chipverifpro/A_Dogs_Tale | C#, Unity, Python
 | **Dungeon Generators** | A variety of random generator algorithms :https://github.com/chipverifpro/Dungeon_Generators | C#, Unity
 | **DungeonReincarnated** | A dungeon crawling game :https://github.com/chipverifpro/Dungeon-Reincarnate | C |
 | **change_file_dates** | Update date/time on files based on a spreadsheet :https://github.com/chipverifpro/change_file_dates | Perl |
